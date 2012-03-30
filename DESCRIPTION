@@ -1,7 +1,7 @@
 Package: breastCancerUNT
 Type: Package
 Title: Gene expression dataset published by Sotiriou et al. [2007] (UNT).
-Version: 1.0.2
+Version: 1.0.3
 Date: 2011-02-10
 Description: Gene expression data from a breast cancer study published by Sotiriou et al. in 2007, provided as an eSet.
 biocViews: ExperimentData, Cancer, GeneExpression, Microarray
